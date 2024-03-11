@@ -1,0 +1,21 @@
+{
+  "name": "project-webontwikkeling-stefja",
+  "version": "1.0.0",
+  "description": "10 objects in een console app met interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "AP-G-1PRO-Webontwikkeling"
+  },
+  "author": "Stephen",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.25"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
