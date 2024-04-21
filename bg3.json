@@ -1,6 +1,6 @@
 [
   {
-    "id": "BG3-CHAR-001 ",
+    "id": "BG3-CHAR-001",
     "name": "Astarion",
     "background": "Astarion prowled the night as a vampire spawn for centuries, serving a sadistic master until he was snatched away. Now he can walk in the light and has the chance at a new life, but how long can he keep his past buried?",
     "age": 239,
@@ -18,7 +18,7 @@
     }
   },
   {
-    "id": "BG3-CHAR-002 ",
+    "id": "BG3-CHAR-002",
     "name": "Gale",
     "background": "A prodigy in magic, Gale is a wizard of great talent and just as great ambition. Once a Chosen of Mystra, his quest to prove himself to the goddess of magic resulted in him being cursed with a long-forgotten form of magic, a ticking time bomb with an all consuming hunger. Now, lost to Mystra's graces and with a tadpole in his brain, Gale must find a way to be rid of both curse and unwelcome guest.",
     "age": 35,
@@ -36,7 +36,7 @@
     }
   },
   {
-    "id": "BG3-CHAR-003 ",
+    "id": "BG3-CHAR-003",
     "name": "Karlach",
     "background": "Trapped in Avernus under Zariel's banner due to the machinations of those she trusted the most, Karlach has been fighting in the Blood War for a decade, away from all that she loved. With the incursion of the nautiloid to the Nine Hells, fate would smile on her and give her a way out, only to turn on her just as quickly. Now, free at last, though with an unwelcome guest in her head, she must protect her hard-won liberty with her life as she seeks revenge on those who betrayed many years ago. With a malfunctioning engine for a heart, and a burning desire to live, will she be able to save herself, or will the Hells catch up with her sooner or later?",
     "age": 30,
@@ -54,7 +54,7 @@
     }
   },
   {
-    "id": "BG3-CHAR-004 ",
+    "id": "BG3-CHAR-004",
     "name": "Lae'zel",
     "background": "A fierce warrior from crèche K'liir, Lae'zel is a follower of Vlaakith, the Lich Queen of the githyanki. Sworn to obey her queen and serve as a blade against the Illithid, she was captured on her quest to present a Mind Flayer head to her queen. Now, tadpoled and with few options at hand, she must find a way to rid herself of the parasite and finally prove herself as a worthy warrior to the Undying Queen. How she does it, and whether or not she remains loyal to Vlaakith, is something she can decide throughout the game.",
     "age": 22,
@@ -72,7 +72,7 @@
     }
   },
   {
-    "id": "BG3-CHAR-005 ",
+    "id": "BG3-CHAR-005",
     "name": "Shadowheart",
     "background": "A devout follower of Shar, Shadowheart is the sole survivor of a holy mission undertaken on the Mistress of the Night's behest. She alone must deliver a relic of immense power to her coven in Baldur's Gate, while threatened by a strange new magic that is burgeoning from within. Her faith plays an important part in her story throughout the game, and she can be steered to or away from it.",
     "age": 40,
@@ -90,7 +90,7 @@
     }
   },
   {
-    "id": "BG3-CHAR-006 ",
+    "id": "BG3-CHAR-006",
     "name": "Wyll",
     "background": "Being the 'fabled Blade of Frontiers' and the son of Grand Duke Ulder Ravengard, Wyll is bound by pact to serve the devil Mizora, a cambion in the service of the Archdevil Zariel. Granted fiendish powers by his pactmistress, Wyll must hunt all manner of devils at the command of his patron. Prepared to sacrifice anything to protect Baldur's Gate, Wyll must struggle to maintain his desire to do good against Mizora's machinations for the opposite.",
     "age": 24,
@@ -108,7 +108,7 @@
     }
   },
   {
-    "id": "BG3-CHAR-007 ",
+    "id": "BG3-CHAR-007",
     "name": "Halsin",
     "background": "Halsin is the Archdruid of the Emerald Grove and an accomplished healer. Before he went missing, Halsin and his apprentice Nettie were researching the recent spike in illithid tadpole infections.",
     "age": 350,
@@ -126,7 +126,7 @@
     }
   },
   {
-    "id": "BG3-CHAR-008 ",
+    "id": "BG3-CHAR-008",
     "name": "Glut",
     "background": "Glut was the sovereign of a myconid circle, now displaced after an attacked by duergars destroyed its people. Without a circle, Glut took shelter with Sovereign Spaw's in the Ebonlake Grotto. However, it holds some resentment towards Spaw for not giving aid during the attack.",
     "age": 100,
@@ -144,7 +144,7 @@
     }
   },
   {
-    "id": "BG3-CHAR-009 ",
+    "id": "BG3-CHAR-009",
     "name": "Us",
     "background": "Us can be found trapped inside the head of Myrnath, who is strapped to a chair with the top of his skull removed. The player can find them taking the elevator in the second room aboard the Nautiloid.",
     "age": 0,
@@ -162,7 +162,7 @@
     }
   },
   {
-    "id": "BG3-CHAR-010 ",
+    "id": "BG3-CHAR-010",
     "name": "Minthara",
     "background": "A member of the ancient House Baenre, Minthara is a True Soul in the service of the Absolute and one of the three leaders of the Goblin Camp in the Wilderness. She and her fellow True Souls, Priestess Gut and Dror Ragzlin, set up a base of operations in an old Selûnite temple in search of a Mysterious Artefact by order of the Absolute. Will her cruel efforts be rewarded by the one she so reveres, or will she be cast aside as a broken tool in the Absolute's path of conquest?",
     "age": 250,
